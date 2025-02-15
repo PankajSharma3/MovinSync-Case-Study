@@ -1,7 +1,0 @@
-C:/Users/HP/Downloads/ParkAndRideApp/build/CMakeFiles/ParkAndRideApp.dir
-C:/Users/HP/Downloads/ParkAndRideApp/build/CMakeFiles/edit_cache.dir
-C:/Users/HP/Downloads/ParkAndRideApp/build/CMakeFiles/rebuild_cache.dir
-C:/Users/HP/Downloads/ParkAndRideApp/build/CMakeFiles/list_install_components.dir
-C:/Users/HP/Downloads/ParkAndRideApp/build/CMakeFiles/install.dir
-C:/Users/HP/Downloads/ParkAndRideApp/build/CMakeFiles/install/local.dir
-C:/Users/HP/Downloads/ParkAndRideApp/build/CMakeFiles/install/strip.dir
