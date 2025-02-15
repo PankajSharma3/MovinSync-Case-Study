@@ -46,15 +46,21 @@ To run this project, you need:
 
 ---
 
+## Build Command
+```bash
+cmake --build build
+```
+
+
 ## How to Run the Project
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/park-and-ride-system.git
    cd park-and-ride-system
+   cmake --build build
    ./build/ParkAndRideApp
-   '''
-   ## How to Run the Project
+   ```
 
 ## Example
 
@@ -90,3 +96,4 @@ To run this project, you need:
    | End Date            | 2023-10-02          |
    | Booked At           | Sun Oct  1 12:00:00 2023 |
    +---------------------+---------------------+
+```
